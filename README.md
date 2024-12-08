@@ -45,4 +45,4 @@ Contains:
 
 To run the login tests:
 ```bash
-npm test src/tests/login.test.js
+npm start
